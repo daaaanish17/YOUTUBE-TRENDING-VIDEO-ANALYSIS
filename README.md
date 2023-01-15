@@ -42,6 +42,8 @@ The final product of this project is a web application called YT App, which has 
 - Contains three input fields: view count, like count, and comment count.
 - The results are in the form of trending or non-trending.
 
+<img src="/WebApp_screenshots/predictor.JPG" alt="predictor.JPG">
+
 
 #### Trending Channel and Analytics:
 
@@ -50,3 +52,7 @@ The final product of this project is a web application called YT App, which has 
 - Displays channel analytics: view count, subscriber count, and video count.
 - Table shows trending year, trending month, trending video, and title sentiment.
 - Recommender system recommends top 3 channels based on selected channel.
+
+<img src="/WebApp_screenshots/Trending Videos Analysis.JPG" alt="Trending Videos Analysis.JPG">
+
+<img src="/WebApp_screenshots/Trending Channel and Analytics.JPG" alt="Trending Channel and Analytics.JPG">
