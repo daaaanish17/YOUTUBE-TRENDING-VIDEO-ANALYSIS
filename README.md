@@ -32,4 +32,21 @@ A Web App that analyzes YouTube trending videos to identify characteristics that
 - Provide statistics and analysis on trending videos and channels.
 
 
-## IMPLEMENTATION
+### IMPLEMENTATION:
+
+The final product of this project is a web application called YT App, which has three main parts: "Predictor", "Trending Channel and Analytics", and "Trending Video Analysis".
+
+#### Predictor:
+
+- Uses Random Forest as a classifier.
+- Contains three input fields: view count, like count, and comment count.
+- The results are in the form of trending or non-trending.
+
+
+#### Trending Channel and Analytics:
+
+- Allows users to select a channel from a drop-down list.
+- Shows the channel category and view channel link.
+- Displays channel analytics: view count, subscriber count, and video count.
+- Table shows trending year, trending month, trending video, and title sentiment.
+- Recommender system recommends top 3 channels based on selected channel.
